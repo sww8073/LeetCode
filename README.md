@@ -1,2 +1,2 @@
-# TwoSum
-LeetCode Solutions for Two Sum
+# LeetCode
+LeetCode Solutions 
